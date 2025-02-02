@@ -6,7 +6,7 @@ This template is easy to follow for non-tech people and technical people alike. 
 
 ## Installation
 
-1. Follow **[Hugo Doc's - Qucik Start](https://gohugo.io/getting-started/quick-start/)** guide to install Hugo. (Make sure you install **Hugo >= 0.112.4**)
+1. Follow **[Hugo Doc's - Quick Start](https://gohugo.io/getting-started/quick-start/)** guide to install Hugo. (Make sure you install **Hugo >= 0.112.4**)
 
 2. Create a new Hugo site
 
@@ -15,7 +15,7 @@ hugo new site MyFreshWebsite --format yaml
 # replace MyFreshWebsite with name of your website
 ```
 
-> This will create a folder for your webpage.
+> This creates a folder for your webpage.
 
 3. Follow [Install/Updating PaperMod](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation#installingupdating-papermod) guide to install the theme.
 4. Edit your `hugo.yml` to fit your preferences: take a look at [demo config](./hugo.yml) and [hugo-paperMod Example](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite?tab=readme-ov-file) for reference.
@@ -24,9 +24,8 @@ hugo new site MyFreshWebsite --format yaml
 
 [paperMod documentation](https://github.com/adityatelange/hugo-PaperMod/wiki) - check this out to see all the features that your site can have.
 
-I provide a template [`hugo.yml`](hugo.yml) in this repo, that mimics my [personal website](https://michaelforde.com) if you want to make your website look similar to the demo, copy it to your site folder and edit where needed.
-> [!NOTE]  
-> Place all images and favicons in the static folder.
+In this repo there is a template [`hugo.yml`](hugo.yml) of [michael's personal website](https://michaelforde.com) if you want to make your website look similar to the demo, copy it to your site folder and edit where needed.
+> [!NOTE]  Place all images and favicons in the static folder.
 
 ## Deployment
 
@@ -44,19 +43,19 @@ Once your read to publish your website run
 hugo
 ```
 
-For those that don't know how to host a static website, use Github Pages that integrates directly into github.
+For those that don't know how to host a static website, use GitHub Pages that integrates directly into GitHub.
 
 You can even provide your own domain if you purchase on in the future.
 
 [Host on Github Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/
 )
 
-## Acknowledgements
+## Acknowledgments
 
 - [PaperMod Hugo template](https://github.com/adityatelange/hugo-PaperMod) - sleek theme used for this website.
 - [goHugo](https://gohugo.io/) - static page generator.
 
-## Additional Resource
+## Additional resources
 
 - [Favicon generator](https://favicon.io) to generate the icon that you see in the tab bar of your browser.
 - [Canva](https://canva.com) for creating logos for your website.
