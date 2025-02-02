@@ -26,7 +26,12 @@ hugo new site MyFreshWebsite --format yaml
 
 In this repo there is a template [`hugo.yml`](hugo.yml) of [michael's personal website](https://michaelforde.com) if you want to make your website look similar to the demo, copy it to your site folder and edit where needed.
 > [!NOTE]  
-> Place all images and favicons in the static folder.
+> Place all images and favicons in the `static/assets` folder.
+> Hugo defaults to calling these files when written in the config like `assets/image.png`.
+
+> [!Warning]
+> Use relative links in your configuration to ensure it works on GitHub pages.
+> This means links like `assets/image.png` instead of `/assets/image.png`
 
 ## Deployment
 
