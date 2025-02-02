@@ -67,7 +67,7 @@ params:
     - name: email
       url: "mailto:example.com"
     - name: github
-      url: "https://github.com"
+      url: "https://github.com/mkforde/hugo-portfolio-demo"
     - name: linkedin
       url: "https://www.linkedin.com/in/michaelkforde/"
     # - name: instagram
