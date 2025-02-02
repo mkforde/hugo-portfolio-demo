@@ -20,6 +20,9 @@ hugo new site MyFreshWebsite --format yaml
 3. Follow [Install/Updating PaperMod](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation#installingupdating-papermod) guide to install the theme.
 4. Edit your `hugo.yml` to fit your preferences: take a look at [demo config](./hugo.yml) and [hugo-paperMod Example](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite?tab=readme-ov-file) for reference.
 
+> [!NOTE]
+> Ensure you have made this folder a git repo because it makes it easy to host on GitHub Pages or with other quick deployment tools.
+
 ## Configuration
 
 [paperMod documentation](https://github.com/adityatelange/hugo-PaperMod/wiki) - check this out to see all the features that your site can have.
