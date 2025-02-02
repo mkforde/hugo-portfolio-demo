@@ -31,7 +31,7 @@ In this repo there is a template [`hugo.yml`](hugo.yml) of [michael's personal w
 
 > [!Warning]
 > Use relative links in your configuration to ensure it works on GitHub pages.
-> This means links like `assets/image.png` instead of `/assets/image.png`
+> This means links like `assets/image.png` instead of `/assets/image.png`. These iamges might not show locally due to the baseurl having a subfolder but should work after a git push.
 
 ## Deployment
 
