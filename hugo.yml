@@ -1,4 +1,4 @@
-baseURL: "https://example.com" # replace with your domain
+baseURL: "https://mkforde.github.io/hugo-portfolio-demo" # replace with your domain
 title: Portfolio Demo # replace with title
 theme: PaperMod
 
