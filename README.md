@@ -27,8 +27,6 @@ hugo new site MyFreshWebsite --format yaml
 
 [paperMod documentation](https://github.com/adityatelange/hugo-PaperMod/wiki) - check this out to see all the features that your site can have.
 
-In this repo there is a template [`hugo.yml`](hugo.yml) of [michael's personal website](https://michaelforde.com) if you want to make your website look similar to the demo, copy it to your site folder and edit where needed.
-
 There is a [hugo.yml](./hugo.yml) template. If you want your website to look like the [demo](https://mkforde.github.io/hugo-portfolio-demo/), simply copy it to your site folder and customize it as needed.
 
 > [!NOTE]  
