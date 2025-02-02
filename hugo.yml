@@ -44,7 +44,7 @@ params:
   assets:
     disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: "/assets/favicon.ico" # file should be in ./static/assets
+    favicon: "assets/favicon.ico" # file should be in ./static/assets
 
   label:
     text: "Home"
@@ -55,13 +55,13 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Demo Profile
-    imageUrl: "/assets/images/profile.png"
+    imageUrl: "assets/images/profile.png"
     imageWidth: 250
     imageHeight: 250
     imageTitle: Profile picture
     buttons:
       - name: About Me
-        url: "/about" # found in ./content/about.md
+        url: "about" # found in ./content/about.md
 
   socialIcons:
     - name: email
@@ -82,7 +82,7 @@ menu:
   main:
     - identifier: about
       name: "About"
-      url: "/about" # found in ./content/about.md
+      url: "about" # found in ./content/about.md
       weight: 30
     - identifier: paperMod Demo Site
       name: paperMod Demo Site
